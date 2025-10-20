@@ -1,0 +1,43 @@
+# depslib dependency file v1.0
+1584205420 source:c:\users\usuario\documents\trabajos uni\3ro\estructuras ll\programas\programa01\prog03\main.cpp
+	<iostream>
+
+1678496142 source:c:\users\usuario\documents\trabajos uni\3ro\estructuras ll\programas\programa01\prog03\src\grafo.cpp
+	"Grafo.h"
+
+1678496142 c:\users\usuario\documents\trabajos uni\3ro\estructuras ll\programas\programa01\prog03\include\grafo.h
+	"Nodos.h"
+	<locale.h>
+
+1678496266 source:c:\users\usuario\documents\trabajos uni\3ro\estructuras ll\programas\programa01\prog03\src\carretera.cpp
+	"Carretera.h"
+
+1678496253 c:\users\usuario\documents\trabajos uni\3ro\estructuras ll\programas\programa01\prog03\include\carretera.h
+	<iostream>
+
+1678491389 c:\users\usuario\documents\trabajos uni\3ro\estructuras ll\programas\programa01\prog03\include\nodos.h
+	"Carretera.h"
+
+1680410341 source:c:\users\usuario\documents\trabajos uni\3ro\estructuras ll\programas\programa03\definitive-act\prog03\src\carretera.cpp
+	"Carretera.h"
+
+1680410341 c:\users\usuario\documents\trabajos uni\3ro\estructuras ll\programas\programa03\definitive-act\prog03\include\carretera.h
+	<iostream>
+
+1680410214 source:c:\users\usuario\documents\trabajos uni\3ro\estructuras ll\programas\programa03\definitive-act\prog03\src\grafo.cpp
+	"Grafo.h"
+
+1680411394 c:\users\usuario\documents\trabajos uni\3ro\estructuras ll\programas\programa03\definitive-act\prog03\include\grafo.h
+	"Nodos.h"
+	<locale.h>
+	<windows.h>
+	<fstream>
+	<cstdlib>
+
+1679982866 c:\users\usuario\documents\trabajos uni\3ro\estructuras ll\programas\programa03\definitive-act\prog03\include\nodos.h
+	"Carretera.h"
+
+1679704085 source:c:\users\usuario\documents\trabajos uni\3ro\estructuras ll\programas\programa03\definitive-act\prog03\main.cpp
+	<iostream>
+	"Grafo.h"
+

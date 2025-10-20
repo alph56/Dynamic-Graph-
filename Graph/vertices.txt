@@ -1,0 +1,3 @@
+Mexico|Guadalajara|Catedral|120003|457891*
+Alemania|Berlin|Puerta_De_Berlin|133487|2369741|1504*
+Rusia|Moscu|Catedral_De_San_Basilio|789354|35691*
